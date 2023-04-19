@@ -15,6 +15,7 @@ This is beginners projects that teach how to use git and github
 10. rm = use to remove file or directory
 11. cp = use to copy file into another dir
 12. just
+13. just
 
 
 # ----------git commands--------------#
