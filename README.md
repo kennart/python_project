@@ -29,7 +29,7 @@ git config --global user.name "Your Name"
 2. git config pull.rebase true = To rebase your local changes onto the remote branch,
 
 # ------------------------------------------------------------- #
-3. git pull --no-rebase = If you want to merge the changes from the remote branch into your local branch, run the following command:
+3. git pull --no-rebase = If you want to merge the changes from the remote branch into your local branch, run the following command::
 
 4. git pull --rebase = If you want to rebase your local changes onto the remote branch, run the following command:
 
