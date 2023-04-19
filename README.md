@@ -13,6 +13,7 @@ This is beginners projects that teach how to use git and github
 8. cd ~ = navigating back home
 9. mv = use to rename and move a file
 10. rm = use to remove file or directory
+11. cp = use to copy file into another dir
 
 
 # ----------git commands--------------#
