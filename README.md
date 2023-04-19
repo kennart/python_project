@@ -22,4 +22,14 @@ git config --global user.name "Your Name"
 
 
 # ------------git conflit-----------
-1. git pull --no-rebase
+1. git config pull.rebase false = To merge the changes from the remote branch into your local branch, 
+
+2. git config pull.rebase true = To rebase your local changes onto the remote branch,
+
+# ------------------------------------------------------------- #
+3. git pull --no-rebase = If you want to merge the changes from the remote branch into your local branch, run the following command:
+
+4. git pull --rebase = If you want to rebase your local changes onto the remote branch, run the following command:
+
+5. git pull --ff-only = If you want to only allow fast-forward merges, which will only merge the remote branch if it is a direct ancestor of your local branch
+
