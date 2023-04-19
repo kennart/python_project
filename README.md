@@ -24,7 +24,7 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
 
-# ------------git conflict-----------##
+# ------------git conflict-----------###
 git pull
 
 1. git config pull.rebase false = To merge the changes from the remote branch into your local branch, 
