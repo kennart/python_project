@@ -39,3 +39,8 @@ git pull
 
 5. git pull --ff-only = If you want to only allow fast-forward merges, which will only merge the remote branch if it is a direct ancestor of your local branch
 
+
+# -----------------------git branching or moving to new branch------------------------ #
+1. git checkout -b tech
+2. git checkout main = to switch back to the main branch
+
