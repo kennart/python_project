@@ -41,6 +41,14 @@ git pull
 
 
 # -----------------------git branching or moving to new branch------------------------ #
-1. git checkout -b tech
+1. git checkout -b tech = This create new branch
 2. git checkout main = to switch back to the main branch
+
+2. git push origin tech = after creating new branch push it to the gihub
+3. git add e.g README.md
+4. git commit -m "Moving to new branch"
+5. git push origin tech
+6. Bonus, on your github (there will be pull to merge request) this merge the two branch
+
+
 
