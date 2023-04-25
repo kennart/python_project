@@ -48,7 +48,9 @@ git pull
 3. git add e.g README.md
 4. git commit -m "Moving to new branch"
 5. git push origin tech
-6. Bonus, on your github (there will be pull to merge request) this merge the two branch
+6. git merge tech = this merge the two branch (*main branch)
+7. git commit -am "Fix merge conflicts"
+8. Bonus, on your github (there will be pull to merge request) this merge the two branch
 
 
 
