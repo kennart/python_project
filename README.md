@@ -54,3 +54,11 @@ git pull
 
 
 
+# -----------------------git fork------------------------ #
+tech.github.io
+
+
+# -----------------------git website------------------------ #
+1. tech.github.io
+2. https://github.com/kennart/tech.github.io.git
+
